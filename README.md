@@ -1,5 +1,5 @@
 # Minesweeper
-A simple minesweeper game implemented with a graphics library EasyX in C.
+A simple Minesweeper game implemented with a graphics library EasyX in C.
 ## Screenshot
 * Home<br><br>![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine2.jpg)
 * Playing<br><br>![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine1.png)
