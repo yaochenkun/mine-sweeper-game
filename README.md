@@ -10,8 +10,8 @@ A simple Minesweeper game implemented with a graphics library EasyX in C.
 * Compile the source code file 'xxx.cpp' by VC, and then you can run and play the game.
 
 ## Key Points
-* Use amounts of identifiers to represent the statuses (mine or no mine(i.e. 0~8 mines around)) of each cell in map.
-* Design two recursions to implement:
-1.the searching process when user clicks a 'no mine' cell;
-2.the automatic opening process of the surrouding cells when the central cell was determined.
+* Use amounts of identifiers to represent the __statuses__ (mine or no mine(i.e. 0~8 mines around)) of each cell in map.
+* Design __two recursions__ to implement:<br>
+  1.the searching process when user clicks a 'no mine' cell;<br>
+  2.the automatic opening process of the surrouding cells when the central cell was determined.
 
