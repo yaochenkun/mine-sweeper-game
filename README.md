@@ -12,6 +12,6 @@ A simple Minesweeper game implemented with a graphics library EasyX in C.
 ## Key Points
 * Use amounts of identifiers to represent the statuses (mine or no mine(i.e. 0~8 mines around)) of each cell in map.
 * Design two recursions to implement:
- 1.the searching process when user clicks a 'no mine' cell;
- 2.the automatic opening process of the surrouding cells when the central cell was determined.
+  1.the searching process when user clicks a 'no mine' cell;
+  2.the automatic opening process of the surrouding cells when the central cell was determined.
 
