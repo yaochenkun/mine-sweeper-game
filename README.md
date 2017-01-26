@@ -1,9 +1,9 @@
 # Minesweeper
 A simple Minesweeper game implemented with a graphics library EasyX in C.
 ## Screenshot
-* ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine2.jpg)
+![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine2.jpg)
 
-* ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine1.png)
+![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine1.png)
 
 ## Environment and Settings
 * Download and install VC++6.0.
