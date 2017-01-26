@@ -1,8 +1,9 @@
 # Minesweeper
 A simple Minesweeper game implemented with a graphics library EasyX in C.
 ## Screenshot
-* Home<br><br>![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine2.jpg)
-* Playing<br><br>![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine1.png)
+* ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine2.jpg)
+
+* ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine1.png)
 
 ## Environment and Settings
 * Download and install VC++6.0.
@@ -14,4 +15,6 @@ A simple Minesweeper game implemented with a graphics library EasyX in C.
 * Design __two recursions__ to implement:
  1. the searching process when user clicks a 'no mine' cell;
  2. the automatic opening process of the surrouding cells when the central cell was determined.
-
+ 
+## For More
+If you want more information about 'How to develop this game', you can have a further look at the file [扫雷开发文档](https://github.com/yaochenkun/MinesweeperGame/blob/master/扫雷开发文档.pdf).
