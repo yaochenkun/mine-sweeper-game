@@ -20,4 +20,4 @@ Just dowanload and open [扫雷.exe](https://github.com/yaochenkun/MinesweeperGa
  2. the automatic opening process of the surrouding cells when the central cell was determined.
  
 ## For More
-If you want more information about 'How to develop this game', you can have a further look at the file [扫雷开发文档](https://github.com/yaochenkun/MinesweeperGame/blob/master/扫雷开发文档.pdf).
+If you want more information about 'How to develop this game', you can have a further look at the file [扫雷开发文档.pdf](https://github.com/yaochenkun/MinesweeperGame/blob/master/扫雷开发文档.pdf).
