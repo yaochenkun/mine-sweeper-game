@@ -1,9 +1,9 @@
 # Minesweeper
 A simple Minesweeper game implemented with a graphics library EasyX in C.
 ## Screenshot
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine2.jpg)
+![](http://yaochenkun.cn/wp-content/uploads/2016/07/mine2.jpg)
 
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/mine1.png)
+![](http://yaochenkun.cn/wp-content/uploads/2016/07/mine1.png)
 
 ## Download and Run
 Just dowanload and open [扫雷.exe](https://github.com/yaochenkun/MinesweeperGame/blob/master/扫雷.exe)
